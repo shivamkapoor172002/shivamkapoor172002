@@ -19,4 +19,8 @@ Welcome to my GitHub profile!
 </div>
 
 </div>
+# 📊 GitHub Stats:
+<p align="center">
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkapoor172002&theme=dark" alt="shivamkapoor172002" /></p>
 

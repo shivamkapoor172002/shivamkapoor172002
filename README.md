@@ -14,7 +14,6 @@ Welcome to my GitHub profile!
 <p align="center">
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkapoor172002&theme=dark" alt="shivamkapoor172002" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkapoor172002&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

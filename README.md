@@ -9,12 +9,16 @@ Welcome to my GitHub profile!
 
 💡 My repositories showcase my work in various domains, including image processing, data analysis, web development, and more.
 <div align="center">
+<p align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkapoor172002&theme=dark" alt="shivamkapoor172002" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkapoor172002&theme=dark" alt="shivamkapoor172002" /></p>
+
+
+
+</div>
+
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkapoor172002&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
-</div>
 
